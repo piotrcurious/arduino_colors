@@ -3,7 +3,7 @@
 #include "patterns64_otono_aragon.h"  // Include the pattern bitmaps
 
 
-#define PATTERN_ITERATIONS 4000
+#define PATTERN_ITERATIONS 8000
 #define SCREEN_WIDTH 200
 #define SCREEN_HEIGHT 320
 
