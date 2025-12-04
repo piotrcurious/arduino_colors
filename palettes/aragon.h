@@ -11,6 +11,7 @@
 #define VERDE_MONCAYO           0x3C27  // Forest green from Moncayo’s autumn canopy  
 #define GRIS_MAÑANAS_NIEBLA     0x8C94  // Cool gray from foggy mornings over the valleys  
 #define DORADO_CAMPOS_SECANO    0xFEA0  // Golden hue of dry fields in the lowlands  
+#define VIOLETA_ATARDECER       0x915C  // Violet sunset over the Pyrenees
 
 // --- PROVINCES ---  
 

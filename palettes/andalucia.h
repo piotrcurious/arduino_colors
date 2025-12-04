@@ -1,4 +1,4 @@
-// palette_otono_andalucia.h
+// palettes/andalucia.h
 // Expanded color palette inspired by Andalucía's autumn, organized by subregions
 
 #ifndef PALETTE_OTONO_ANDALUCIA_H
@@ -10,6 +10,8 @@
 #define AZUL_ALHAMBRA     0x4C3F  // Blue of Alhambra tiles
 #define OCRE_ALPUJARRAS   0xDA40  // Ochre tones from the Alpujarras hills
 #define ROJO_CORDOBA      0xA808  // Crimson inspired by Córdoba patios
+#define BLANCO_PUEBLO     0xFFFF  // White village walls
+#define AMARILLO_SOL      0xFEE0  // Andalusian sun yellow
 
 // --- SUBREGIONS ---
 // --- ALMERÍA ---
@@ -22,12 +24,12 @@
 // --- GRANADA ---
 #define ROJO_ARABE        0xA807  // Deep red inspired by Nasrid art
 #define VERDE_MUSGO       0x6406  // Moss green from Sierra Nevada forests
-#define OCRE_ALPUJARRAS   0xDA40  // Ochre tones from Alpujarras terraced farms
+#define OCRE_ALPUJARRAS_GRANADA   0xDA40  // Ochre tones from Alpujarras terraced farms
 #define GRIS_NEVADA       0x8C75  // Gray of Sierra Nevada’s rocky peaks
 #define BLANCO_SIERRA     0xFFFF  // Snow white from Sierra Nevada
 
 // --- SEVILLA ---
-#define NARANJA_SEVILLA   0xFB60  // Seville orange
+#define NARANJA_SEVILLA_CIUDAD   0xFB60  // Seville orange
 #define AMARILLO_GIRASOL  0xFEA0  // Sunflower yellow from the countryside
 #define VERDE_PARQUE_MARIA_LUISA 0x3C07  // Lush green from María Luisa Park
 #define GRIS_GIRALDA      0x9CF3  // Soft gray inspired by the Giralda tower
@@ -41,7 +43,7 @@
 #define ROJO_VINO_RONDA   0xB010  // Wine red from Ronda’s vineyards
 
 // --- CÓRDOBA ---
-#define ROJO_CORDOBA      0xA808  // Crimson from Córdoba’s patios
+#define ROJO_PATIO_CORDOBES      0xA808  // Crimson from Córdoba’s patios
 #define AMARILLO_MEZQUITA 0xFEC2  // Golden hues from the Mezquita arches
 #define VERDE_OLIVARES    0x8404  // Olive green from vast Córdoba groves
 #define GRIS_CALIFAL      0x9CD4  // Gray from Caliphal-era architecture
@@ -57,7 +59,7 @@
 // --- JAÉN ---
 #define VERDE_ACEITUNA    0x7C05  // Olive green from Jaén’s groves
 #define AMARILLO_TRIGO    0xFEC0  // Golden wheat fields
-#define OCRE_MONTES       0xDA40  // Ochre mountains
+#define OCRE_MONTES_JAEN       0xDA40  // Ochre mountains
 #define GRIS_SIERRA_CAZORLA 0x8C76  // Gray from Sierra de Cazorla peaks
 #define BLANCO_NIEBLA     0xEF5D  // Misty white from Jaén’s foggy mornings
 
