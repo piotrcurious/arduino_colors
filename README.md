@@ -1,6 +1,6 @@
 # Autumn in Spain - Arduino Color Palettes
 
-This project provides a collection of 16-bit RGB565 color palettes for Arduino TFT projects, inspired by the autumn season in Spain. The palettes are organized by autonomous communities, reflecting the unique colors of each region.
+This project provides a collection of 16-bit RGB565 color palettes for Arduino TFT projects, inspired by the autumn season in Spain. The palettes are organized by autonomous communities and their subregions, reflecting the unique colors of each area.
 
 ## Project Goals
 
