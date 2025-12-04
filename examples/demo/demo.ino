@@ -1,5 +1,5 @@
 #include <TFT_eSPI.h>  // TFT library for ESP32
-#include "palette_otono.h"  // Include the autumn color palette
+#include "../../autumn_in_spain.h"  // Include the autumn color palette
 #include "patterns.h"  // Include the pattern bitmaps
 
 // Create TFT screen object
