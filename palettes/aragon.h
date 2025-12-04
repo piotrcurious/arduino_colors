@@ -24,6 +24,7 @@
 #define AMARILLO_PRADOS_ALTOS   0xFED0  // Vibrant yellow of alpine meadows in autumn  
 #define MARRON_BOSQUES_CADUCOS  0x9B40  // Warm brown from deciduous tree carpets  
 #define NEGRO_CUEVAS_SIERRA     0x2104  // Deep black from caves in Sierra de Guara  
+#define AZUL_RIO_SERENO 0x5D9E // Serene mountain river blue
 
 // --- ZARAGOZA (CENTRAL) ---  
 // Ebro Valley contrasts: fertile riversides, arid plains, and urban landmarks  

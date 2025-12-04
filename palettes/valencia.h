@@ -10,6 +10,7 @@
 #define OCRE_CAMPOS_CITRICOS   0xDA40  // Ochre tones from citrus fields during harvest  
 #define ROJO_NARANJA           0xB810  // Bright orange-red from Valencia’s famous oranges  
 #define AMARILLO_AZAFRAN       0xFED0  // Yellow from saffron threads used in paella  
+#define AMARILLO_SOL_CALIDO    0xFFE8  // Warm autumn sun
 
 // --- SUBREGIONS ---  
 // --- ALICANTE ---  

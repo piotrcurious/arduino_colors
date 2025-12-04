@@ -25,6 +25,7 @@
 #define ROJO_UVA_MONASTRELL    0xA810  // Deep red from Monastrell grape vineyards  
 #define GRIS_CASTILLOS_LORCA   0x8C74  // Gray from Lorca’s medieval castle ruins  
 #define AMARILLO_CAMPIÑAS      0xFEB0  // Golden yellow from rolling plains in the region  
+#define MORADO_UVA_PISADA      0x5808  // Trod grape purple
 
 // --- SIERRA ESPUÑA ---  
 #define VERDE_PINARES_ESPUNA   0x3C07  // Green from pine forests in Sierra Espuña  

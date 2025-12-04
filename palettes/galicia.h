@@ -32,6 +32,7 @@
 #define VERDE_SERRA_XURES     0x3A27  // Green from Serra do Xurés forests  
 #define GRIS_CATEDRAL_OURENSE 0x8C75  // Gray from Ourense Cathedral stones  
 #define AMARILLO_HOJAS_CASTAÑO 0xFEC2 // Golden yellow from chestnut leaves  
+#define DORADO_VINEDO 0xFEC0 // Golden vineyard
 
 // --- PONTEVEDRA ---  
 #define AZUL_RIAS_BAIXAS      0x4C7F  // Coastal blue from Rías Baixas  

@@ -18,6 +18,8 @@
 #define AMARILLO_ARENA    0xFEC0  // Golden sand of Almería’s beaches
 #define VERDE_DESIERTO    0x6A04  // Green shrubs in the Tabernas desert
 #define GRIS_SIERRA_ALHAMILLA 0x8C73  // Stone gray from the Sierra Alhamilla
+#define AMARILLO_SOL_SUAVE 0xFEE0 // Soft autumn sunlight
+#define NARANJA_OTONO_ALMERIA 0xFC60 // Autumn orange tones
 
 // --- GRANADA ---
 #define ROJO_ARABE        0xA807  // Deep red inspired by Nasrid art
@@ -25,6 +27,7 @@
 #define OCRE_ALPUJARRAS   0xDA40  // Ochre tones from Alpujarras terraced farms
 #define GRIS_NEVADA       0x8C75  // Gray of Sierra Nevada’s rocky peaks
 #define BLANCO_SIERRA     0xFFFF  // Snow white from Sierra Nevada
+#define AMARILLO_VIBRANTE 0xFFC0 // Vibrant yellow of autumn leaves
 
 // --- SEVILLA ---
 #define NARANJA_SEVILLA   0xFB60  // Seville orange
@@ -34,38 +37,54 @@
 #define AMBAR_TORRE_DEL_ORO 0xFA60  // Amber gold from Torre del Oro
 
 // --- MÁLAGA ---
+// -- Serranía de Ronda --
+#define ROJO_VINO_RONDA   0xB010  // Wine red from Ronda’s vineyards
+#define VERDE_PINSAPO     0x3206  // Green from Sierra de las Nieves fir trees
+// -- Costa del Sol Occidental --
 #define AZUL_CALA_MIJAS   0x4D1F  // Turquoise blue of Mijas coves
 #define AMARILLO_PLAYAS   0xFEC0  // Bright yellow sand from Málaga beaches
-#define VERDE_PINSAPO     0x3206  // Green from Sierra de las Nieves fir trees
+// -- Montes de Málaga --
 #define GRIS_MONTES       0x8C70  // Gray rocks of the Montes de Málaga
-#define ROJO_VINO_RONDA   0xB010  // Wine red from Ronda’s vineyards
 
 // --- CÓRDOBA ---
+// -- Campiña Sur --
+#define VERDE_OLIVARES    0x8404  // Olive green from vast Córdoba groves
+// -- Valle del Guadalquivir --
+#define OCRE_GUADALQUIVIR 0xDA62  // Ochre tones of the Guadalquivir riverbanks
+// -- Córdoba Capital --
 #define ROJO_CORDOBA      0xA808  // Crimson from Córdoba’s patios
 #define AMARILLO_MEZQUITA 0xFEC2  // Golden hues from the Mezquita arches
-#define VERDE_OLIVARES    0x8404  // Olive green from vast Córdoba groves
 #define GRIS_CALIFAL      0x9CD4  // Gray from Caliphal-era architecture
-#define OCRE_GUADALQUIVIR 0xDA62  // Ochre tones of the Guadalquivir riverbanks
 
 // --- CÁDIZ ---
+// -- Costa de la Luz --
 #define AZUL_ATLANTICO    0x5C5F  // Deep blue from the Atlantic Ocean
-#define BLANCO_CASCO_ANTIGUO 0xFFFF  // White walls of Cádiz’s old town
-#define VERDE_PARQUE_DOÑANA 0x3A27  // Lush green from Doñana National Park
-#define GRIS_SALINAS      0x94B3  // Gray from the salt flats
 #define AMARILLO_ARENA_LA_BARROSA 0xFEA0  // Bright yellow from La Barrosa Beach
+// -- Bahía de Cádiz --
+#define BLANCO_CASCO_ANTIGUO 0xFFFF  // White walls of Cádiz’s old town
+#define GRIS_SALINAS      0x94B3  // Gray from the salt flats
+// -- Parque Natural de Doñana --
+#define VERDE_PARQUE_DOÑANA 0x3A27  // Lush green from Doñana National Park
 
 // --- JAÉN ---
+// -- Sierra de Cazorla --
+#define GRIS_SIERRA_CAZORLA 0x8C76  // Gray from Sierra de Cazorla peaks
+// -- Campiña de Jaén --
 #define VERDE_ACEITUNA    0x7C05  // Olive green from Jaén’s groves
 #define AMARILLO_TRIGO    0xFEC0  // Golden wheat fields
+// -- Montes de Jaén --
 #define OCRE_MONTES       0xDA40  // Ochre mountains
-#define GRIS_SIERRA_CAZORLA 0x8C76  // Gray from Sierra de Cazorla peaks
 #define BLANCO_NIEBLA     0xEF5D  // Misty white from Jaén’s foggy mornings
 
 // --- HUELVA ---
+// -- Costa de la Luz --
+#define AZUL_ISLANTILLA   0x4C3E  // Deep blue from Islantilla beaches
+// -- Andévalo --
 #define ROJO_FRESAS       0xB810  // Strawberry red from Huelva farms
-#define VERDE_PINARES     0x3206  // Pine green from Huelva’s forests
+// -- Cuenca Minera --
 #define GRIS_MINAS_RIO_TINTO 0x8D92  // Gray from Río Tinto mines
 #define OCRE_RIO_TINTO    0xDA22  // Ochre tones of Río Tinto
-#define AZUL_ISLANTILLA   0x4C3E  // Deep blue from Islantilla beaches
+// -- El Condado --
+#define VERDE_PINARES     0x3206  // Pine green from Huelva’s forests
 
 #endif // PALETTE_OTONO_ANDALUCIA_H

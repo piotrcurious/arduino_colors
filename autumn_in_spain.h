@@ -11,5 +11,12 @@
 #include "palettes/madrid.h"
 #include "palettes/murcia.h"
 #include "palettes/valencia.h"
+#include "palettes/asturias.h"
+#include "palettes/balearic_islands.h"
+#include "palettes/basque_country.h"
+#include "palettes/canary_islands.h"
+#include "palettes/cantabria.h"
+#include "palettes/la_rioja.h"
+#include "palettes/navarre.h"
 
 #endif // AUTUMN_IN_SPAIN_H

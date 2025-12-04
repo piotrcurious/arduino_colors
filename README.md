@@ -1,6 +1,6 @@
 # Autumn in Spain - Arduino Color Palettes
 
-This project provides a collection of 16-bit RGB565 color palettes for Arduino TFT projects, inspired by the autumn season in Spain. The palettes are organized by autonomous communities, reflecting the unique colors of each region.
+This project provides a collection of 16-bit RGB565 color palettes for Arduino TFT projects, inspired by the autumn season in Spain. The palettes are organized by autonomous communities and their subregions, reflecting the unique colors of each area.
 
 ## Project Goals
 
@@ -19,7 +19,21 @@ The project will be reorganized into the following structure:
 ├── palettes/
 │   ├── andalucia.h
 │   ├── aragon.h
-│   └── ... (one file per region)
+│   ├── asturias.h
+│   ├── balearic_islands.h
+│   ├── basque_country.h
+│   ├── canary_islands.h
+│   ├── cantabria.h
+│   ├── castilla_la_mancha.h
+│   ├── castilla_leon.h
+│   ├── cataluna.h
+│   ├── extremadura.h
+│   ├── galicia.h
+│   ├── la_rioja.h
+│   ├── madrid.h
+│   ├── murcia.h
+│   ├── navarre.h
+│   └── valencia.h
 └── examples/
     ├── demo/
     │   └── demo.ino

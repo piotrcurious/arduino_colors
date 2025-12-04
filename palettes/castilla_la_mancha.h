@@ -10,6 +10,7 @@
 #define ROJO_AZAFRAN           0xB810  // Red from the famous saffron fields  
 #define GRIS_CASTILLOS         0x8C74  // Gray from medieval castles across the region  
 #define AZUL_TABLAS_DAIMIEL    0x4D5F  // Blue from Las Tablas de Daimiel wetlands  
+#define MARRON_SEMIARIDO       0x9340  // Semi-arid earth brown
 
 // --- SUBREGIONS ---  
 // --- ALBACETE ---  
