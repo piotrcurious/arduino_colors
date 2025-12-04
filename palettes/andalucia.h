@@ -18,6 +18,8 @@
 #define AMARILLO_ARENA    0xFEC0  // Golden sand of Almería’s beaches
 #define VERDE_DESIERTO    0x6A04  // Green shrubs in the Tabernas desert
 #define GRIS_SIERRA_ALHAMILLA 0x8C73  // Stone gray from the Sierra Alhamilla
+#define AMARILLO_SOL_SUAVE 0xFEE0 // Soft autumn sunlight
+#define NARANJA_OTONO_ALMERIA 0xFC60 // Autumn orange tones
 
 // --- GRANADA ---
 #define ROJO_ARABE        0xA807  // Deep red inspired by Nasrid art
@@ -25,6 +27,7 @@
 #define OCRE_ALPUJARRAS   0xDA40  // Ochre tones from Alpujarras terraced farms
 #define GRIS_NEVADA       0x8C75  // Gray of Sierra Nevada’s rocky peaks
 #define BLANCO_SIERRA     0xFFFF  // Snow white from Sierra Nevada
+#define AMARILLO_VIBRANTE 0xFFC0 // Vibrant yellow of autumn leaves
 
 // --- SEVILLA ---
 #define NARANJA_SEVILLA   0xFB60  // Seville orange

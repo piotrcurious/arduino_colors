@@ -18,6 +18,8 @@
 #define ROJO_MODERNISTA        0xB009  // Red hues from Modernist architecture  
 #define VERDE_PARQUE_CIUTADELLA 0x3C07 // Green from Ciutadella Park  
 #define AZUL_PORT_OLIMPIC      0x4C5F  // Deep blue from Port Olímpic waters  
+#define ROJO_HOJA_HAYA 0xA900 // Beech leaf red
+#define MARRON_CASTANA 0x8200 // Chestnut brown
 
 // --- TARRAGONA ---  
 #define AMARILLO_AMPHITHEATRE  0xFEB2  // Golden stones of Tarragona’s amphitheater  

@@ -10,6 +10,7 @@
 #define VERDE_RETIRADO          0x3A27  // Green from the trees in El Retiro Park  
 #define GRIS_GRAN_VIA           0x8C94  // Gray from the stone facades of Gran Vía buildings  
 #define AZUL_CIELO_CASTELLANA   0x4D7F  // Bright blue skies over Paseo de la Castellana  
+#define AZUL_DESLUMBRANTE       0x259F  // Dazzling blue sky
 
 // --- NATURAL LANDSCAPES ---  
 // --- SIERRA DE GUADARRAMA ---  

@@ -32,6 +32,7 @@
 #define OCRE_MARAGATERIA    0xD941  // Ochre tones from La Maragatería
 #define GRIS_CATEDRAL_LEON  0x9CD4  // Gray stone from León Cathedral
 #define AZUL_BIERZO         0x5D3F  // Deep blue from El Bierzo sky
+#define ARENA_ROJIZA_MEDULAS 0xB2A0 // Reddish sand of Las Medulas
 
 // --- PALENCIA ---
 #define AMARILLO_CAMPIÑAS   0xFEA0  // Yellow fields from Tierra de Campos

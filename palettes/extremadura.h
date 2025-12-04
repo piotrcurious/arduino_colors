@@ -10,6 +10,7 @@
 #define ROJO_PIMENTON_LA_VERA  0xB810  // Red from La Vera’s smoked paprika  
 #define AZUL_EMBALSE           0x4D5F  // Blue from Extremadura’s reservoirs  
 #define AMARILLO_ALCORNOQUES   0xFEC3  // Yellow from cork oak leaves  
+#define GRIS_NIEBLA_MANANA     0xBDF7  // Misty morning gray
 
 // --- SUBREGIONS ---  
 // --- CÁCERES ---  
